@@ -1,2 +1,4 @@
 # pkg
-the pkg contains all the logic
+The pkg contains all the public project logic:
+- Errno
+- Trace
