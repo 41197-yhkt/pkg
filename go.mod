@@ -1,4 +1,4 @@
-module pkg
+module github.com/41197-yhkt/pkg
 
 go 1.19
 
