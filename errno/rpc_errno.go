@@ -11,7 +11,8 @@ var (
 	UserPwdErr          = NewErrNo(3002, "User Password Wrong")
 	UserNotExist        = NewErrNo(3003, "User Not Exist")
 
-	CompCommentErr = NewErrNo(4001, "Comment Error")
+	CompCommentErr     = NewErrNo(4001, "Comment Error")
+	CommentNotExistErr = NewErrNo(4002, "Comment Not Exist")
 
 	VideoPublishErr  = NewErrNo(5001, "Publish Errror")
 	VedioNotExistErr = NewErrNo(5002, "Vedio Not Exist")
