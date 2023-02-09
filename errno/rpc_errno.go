@@ -17,5 +17,5 @@ var (
 	CommentNotExistErr = NewErrNo(4002, "Comment Not Exist")
 
 	VideoPublishErr  = NewErrNo(5001, "Publish Errror")
-	VedioNotExistErr = NewErrNo(5002, "Vedio Not Exist")
+	VideoNotExistErr = NewErrNo(5002, "Video Not Exist")
 )
